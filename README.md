@@ -29,7 +29,7 @@
 ```yaml
 name: Youbraj Kafle
 located_in: Butwal, Nepal
-current_job: Full Stack Developer
+current_job: -
 education:
   [
     "Self-Taught Developer and Designer",
