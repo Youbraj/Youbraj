@@ -35,7 +35,7 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Computer Engineering",
   ]
-company: Soulber
+company: -
 
 fields_of_interests:
   [
@@ -44,18 +44,13 @@ fields_of_interests:
     "Machine Learning",
     "UI/UX",
     "Game Development",
-    "DevOps",
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    -
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["- - -"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
